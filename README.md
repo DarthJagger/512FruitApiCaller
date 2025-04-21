@@ -17,3 +17,10 @@ Download both the Color Mask.py and Quadrents.py files and open them in an ide t
 Edit requests call on line 28 and 39 respectively to have your API link instead of the work link
 After that the program should be good to run
 
+
+Output Screenshots: 
+Fresh Fruit
+<img width="194" alt="FreshTest" src="https://github.com/user-attachments/assets/711693ad-f8a4-4218-8084-959454ae4c8c" />
+
+Rotten Fruit
+<img width="193" alt="RottenTest" src="https://github.com/user-attachments/assets/a20b962a-07a9-434c-a7e4-f1bb03b02fcc" />
