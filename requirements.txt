@@ -1,0 +1,11 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+tensorflow==2.18.0
+fastapi[all]
+uvicorn[standard]
+gunicorn
+numpy
+pandas
+keras
+keras_preprocessing
+pillow
+scipy
