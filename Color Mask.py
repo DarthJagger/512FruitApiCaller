@@ -21,10 +21,11 @@ def api_Call(photo, start_time):
     # Prepare the files dictionary with a byte stream
     files = {'img_file': ('frame.jpg', image_bytes, 'image/jpeg')}
 
+    # Send the request to the API
     try:
-        # Send the request to the API
+        #update where it says link to your API created from the docker file.
         response = requests.get(
-            'https://food-grader-a9gydgcffbg7f9dv.eastus2-01.azurewebsites.net/file',
+            'link',
             files=files
         )
 
